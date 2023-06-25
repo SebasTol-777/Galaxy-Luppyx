@@ -4,7 +4,7 @@ For this Android Studio Project, we have to recreate a *Flappy Bird game*.
 
 
 ## What is it ?
-In this game, the player is a bird which has to avoid pipes by flapping (when we click on the screen, the bird goes up and down after). For each pipe we avoid, we have 1 point. We lose the game when our bird touches a pipe. Once we lose, our score is registered on a database with our pseudo and we can see the leaderboard.
+In this game, the player is a alien which has to avoid lasers by flapping (when we click on the screen, the alien goes up and down after). For each pipe we avoid, we have 1 point. We lose the game when our bird touches a pipe. Once we lose, our score is registered on a database with our pseudo and we can see the leaderboard.
 
 
 # 15/10/2021
