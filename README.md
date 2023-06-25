@@ -1,4 +1,5 @@
-# Flappy Bird
+# Galaxy Luppyx
+
 For this Android Studio Project, as a team we had the idea of ​​recreating a game with a game dynamic similar to *Flappy Bird game*.
 
 
