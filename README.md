@@ -1,5 +1,5 @@
 # Flappy Bird
-For this Android Studio Project, we have to recreate a *Flappy Bird game*.
+For this Android Studio Project, as a team we had the idea of ​​recreating a game with a game dynamic similar to *Flappy Bird game*.
 ![image](https://github.com/SebasTol-777/Galaxy-Luppyx/assets/127360986/75769ad5-f63a-4a64-a795-8258c8c3a08b)
 
 
