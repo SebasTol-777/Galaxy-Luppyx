@@ -1,6 +1,7 @@
 # Flappy Bird
 For this Android Studio Project, we have to recreate a *Flappy Bird game*.
-![sample picture of the original game](https://img.huffingtonpost.com/asset/5c9371cd230000a3006cde16.jpeg?ops=scalefit_630_noupscale)
+![image](https://github.com/SebasTol-777/Galaxy-Luppyx/assets/127360986/75769ad5-f63a-4a64-a795-8258c8c3a08b)
+
 
 ## What is it ?
 In this game, the player is a bird which has to avoid pipes by flapping (when we click on the screen, the bird goes up and down after). For each pipe we avoid, we have 1 point. We lose the game when our bird touches a pipe. Once we lose, our score is registered on a database with our pseudo and we can see the leaderboard.
